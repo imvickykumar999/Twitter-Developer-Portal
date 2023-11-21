@@ -1,5 +1,3 @@
-# Twitter-Developer-Portal
-
----------------------------------------------
-
-[![image](https://user-images.githubusercontent.com/50515418/152233465-5115d443-96d0-424e-9843-bfea429b6898.png)](https://realpython.com/twitter-bot-python-tweepy)
+> # [`Twitter Developer Portal`](https://realpython.com/twitter-bot-python-tweepy)
+>
+> ![image](https://github.com/imvickykumar999/Twitter-Developer-Portal/assets/50515418/c2007af3-6832-4dc6-a9b0-4e1342726237)
