@@ -38,6 +38,7 @@ except Exception as e:
 
 '''
 tweepy.errors.Forbidden: 403 Forbidden
+https://stackoverflow.com/a/76520660/11493297
 
 453 - You currently have access to a subset of Twitter API v2 endpoints and 
 limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to 
